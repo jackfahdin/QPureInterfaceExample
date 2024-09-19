@@ -1,3 +1,6 @@
 [submodule "PureInterface"]
 	path = PureInterface
 	url = git@github.com:jackfahdin/PureInterface.git
+[submodule ".cmake"]
+	path = .cmake
+	url = git@github.com:jackfahdin/.cmake.git
